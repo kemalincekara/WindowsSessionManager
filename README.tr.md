@@ -82,7 +82,7 @@ Geliştirme önerileri, hata bildirimleri veya kod katkılarınız için [Issues
 
 ## Lisans
 
-Bu proje, MIT Lisansı kapsamında lisanslanmıştır. Lisans detayları için [LICENSE](LICENSE) dosyasını inceleyin.
+Bu proje, MIT Lisansı kapsamında lisanslanmıştır. Lisans detayları için [LICENSE](LICENSE.txt) dosyasını inceleyin.
 
 ---
 

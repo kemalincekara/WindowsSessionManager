@@ -83,7 +83,7 @@ Contributions, bug reports, and feature requests are welcome. Please use the [Is
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ---
 
